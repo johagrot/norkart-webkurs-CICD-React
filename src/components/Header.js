@@ -5,7 +5,7 @@ const styles = {
   width: "100vw",
   padding: "10px",
   textAlign: "center",
-  fontSize: "30px",
+  fontSize: "60px",
 };
 
 const Header = () => {
